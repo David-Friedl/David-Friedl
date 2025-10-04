@@ -2,7 +2,12 @@
 <h3 align="center">A passionate developer from Austria</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://david-friedl.github.io/Website" target="_blank" rel="noreferrer">
+    🌐 My Website
+  </a><br>
+  <a href="https://www.linkedin.com/in/david-friedl-60b611255" target="_blank" rel="noreferrer">
+    💼 LinkedIn
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
